@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @khuzain
-- 👀 I’m interested in hacking..
-- 🌱 I’m currently learning phython...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 khuzain/khuzain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
