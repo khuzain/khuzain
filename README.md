@@ -1,4 +1,4 @@
-
+Software Engineering student | Learning Flutter & Dart | Building cross-platform mobile apps"
 
 <!---
 khuzain/khuzain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
